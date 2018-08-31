@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:diecimila",
+    "configuration": "cpu=atmega168",
+    "sketch": "8SegDisplay2\\8SegDisplay2.ino",
+    "port": "COM6"
+}
